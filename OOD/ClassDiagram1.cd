@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOD.GameObject">
+    <Position X="13" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAgAAAEAAAAAAQIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.Healing">
+    <Position X="8.75" Y="17.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Healing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOD.Program">
+    <Position X="9.25" Y="21" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.Spell">
+    <Position X="8" Y="11.25" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="OOD.Spell.Difficulty" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Spell.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAICAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.SpellBook">
+    <Position X="4" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAIAAEAAAAAAAAAAIAEgAAAAAAAAAg=</HashCode>
+      <FileName>SpellBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.Student">
+    <Position X="18" Y="12.75" Width="6" />
+    <NestedTypes>
+      <Enum Name="OOD.Student.Levels" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Student.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAMAAQEgBAAAAABAAAAAAAAAIAIEAABAAZAYAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.StudentList">
+    <Position X="18" Y="19.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAACg=</HashCode>
+      <FileName>StudentList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD.Teleportation">
+    <Position X="4.25" Y="16" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teleportation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOD.Transmogrification">
+    <Position X="13" Y="16.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Transmogrification.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOD.ICastSpell">
+    <Position X="6" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHaveSpells.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,12 @@
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\bin\Debug\OOD.exe.config
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\obj\Debug\OOD.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\bin\Debug\OOD.exe
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\bin\Debug\OOD.pdb
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\obj\Debug\OOD.exe
+C:\Users\leo\Desktop\OOP\T6.1\OOD\OOD\obj\Debug\OOD.pdb
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\bin\Debug\OOD.exe.config
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\obj\Debug\OOD.exe
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\obj\Debug\OOD.pdb
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\bin\Debug\OOD.exe
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\bin\Debug\OOD.pdb
+C:\Users\leo\Desktop\OOP\T6.1\OOD-v2\OOD\obj\Debug\OOD.csprojResolveAssemblyReference.cache
