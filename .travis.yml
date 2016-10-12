@@ -1,0 +1,7 @@
+language: csharp
+solution: OOD.sln
+install:
+  - nuget restore OOD.sln
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release OOD.sln
